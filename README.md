@@ -31,3 +31,5 @@ Track progress in real time
 Send notifications and reminders 🔔
 Support collaboration between multiple users
 Organize tasks by categories or projects
+
+Update note: This README was refreshed as part of routine project maintenance.
